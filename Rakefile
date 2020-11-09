@@ -5,4 +5,4 @@ end
 
 task :greeting do 
   puts "hello from Rake!"
-  emd 
+end 
